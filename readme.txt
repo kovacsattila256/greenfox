@@ -1,2 +1,2 @@
 Hello!
-Itt van meg egy kurva sor.
+Itt van meg egy sor.
